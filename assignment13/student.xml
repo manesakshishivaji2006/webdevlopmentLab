@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="student.css"?>
+
+<students>
+    <student>
+        <name>sakshi mane</name>
+        <rollno>2</rollno>
+        <branch>Computer Science</branch>
+        <year>Second Year</year>
+    </student>
+
+    <student>
+        <name>aditi jadhav</name>
+        <rollno>89</rollno>
+        <branch>Information Technology</branch>
+        <year>Second Year</year>
+    </student>
+
+    <student>
+        <name>aditya </name>
+        <rollno>90</rollno>
+        <branch>Information Technology</branch>
+        <year>Second Year</year>
+    </student>
+</students>
